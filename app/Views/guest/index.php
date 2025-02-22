@@ -104,8 +104,8 @@
 <section class="bg-clr1 py-5 bg-web row m-0 p-0 justify-content-center" style="background-image:url('<?= base_url('images/background/count.png') ?>')">
     <div class="col-lg-8 m-0 p-0 my-5">
         <div class="row m-0 p-0 justify-content-center">
-            <div class="col-md-3 col-lg-3 m-0 p-0 d-flex justify-content-center align-items-center">
-                <div class="card card-count cursor-pointer position-relative m-0 p-4 bg-clr1 d-flex justify-content-center align-items-center" style="width:180px;aspect-ratio:1/1;">
+            <div class="col-md-6 col-lg-3 m-0 p-0 d-flex justify-content-center justify-content-md-end justify-content-lg-center pe-0 pe-md-1 pe-lg-0 align-items-center">
+                <div class="card mb-2 mb-lg-0 card-count cursor-pointer position-relative m-0 p-4 bg-clr1 d-flex justify-content-center align-items-center" style="width:180px;aspect-ratio:1/1;">
                     <div class="text-clr5">
                         <h1 class="text-center">185</h1>
                         <p class="text-center m-0">Pesanan Client</p>
@@ -115,8 +115,8 @@
                     </svg>
                 </div>
             </div>
-            <div class="col-md-3 col-lg-3 m-0 p-0 d-flex justify-content-center align-items-center">
-                <div class="card card-count cursor-pointer position-relative m-0 p-4 bg-clr1 d-flex justify-content-center align-items-center" style="width:180px;aspect-ratio:1/1;">
+            <div class="col-md-6 col-lg-3 m-0 p-0 d-flex justify-content-center justify-content-md-start justify-content-lg-center ps-0 ps-md-1 ps-lg-0 align-items-center">
+                <div class="card mb-2 mb-lg-0 card-count cursor-pointer position-relative m-0 p-4 bg-clr1 d-flex justify-content-center align-items-center" style="width:180px;aspect-ratio:1/1;">
                     <div class="text-clr5">
                         <h1 class="text-center">65</h1>
                         <p class="text-center m-0">Project Tuntas</p>
@@ -126,8 +126,8 @@
                     </svg>
                 </div>
             </div>
-            <div class="col-md-3 col-lg-3 m-0 p-0 d-flex justify-content-center align-items-center">
-                <div class="card card-count cursor-pointer position-relative m-0 p-4 bg-clr1 d-flex justify-content-center align-items-center" style="width:180px;aspect-ratio:1/1;">
+            <div class="col-md-6 col-lg-3 m-0 p-0 d-flex justify-content-center justify-content-md-end justify-content-lg-center pe-0 pe-md-1 pe-lg-0 align-items-center">
+                <div class="card mb-2 mb-md-0 card-count cursor-pointer position-relative m-0 p-4 bg-clr1 d-flex justify-content-center align-items-center" style="width:180px;aspect-ratio:1/1;">
                     <div class="text-clr5">
                         <h1 class="text-center">4.5</h1>
                         <p class="text-center m-0">Rating Client</p>
@@ -137,7 +137,7 @@
                     </svg>
                 </div>
             </div>
-            <div class="col-md-3 col-lg-3 m-0 p-0 d-flex justify-content-center align-items-center">
+            <div class="col-md-6 col-lg-3 m-0 p-0 d-flex justify-content-center justify-content-md-start justify-content-lg-center ps-0 ps-md-1 ps-lg-0 ps-lg-0 align-items-center">
                 <div class="card card-count cursor-pointer position-relative m-0 p-4 bg-clr1 d-flex justify-content-center align-items-center" style="width:180px;aspect-ratio:1/1;">
                     <div class="text-clr5">
                         <h1 class="text-center">60</h1>
