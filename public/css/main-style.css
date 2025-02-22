@@ -18,6 +18,7 @@
     --clr7: #7456FF1A;
     --clr8: #1d1d1d;
     --clr9: #161226;
+    --clr10: #4E504F;
 }
 
 .btn-clr2 { background-color: var(--clrw); color: var(--clr5); }
@@ -42,6 +43,7 @@
 .bg-clr7 { background-color: var(--clr7); }
 .bg-clr8 { background-color: var(--clr8); }
 .bg-clr9 { background-color: var(--clr9); }
+.bg-clr10 { background-color: var(--clr10); }
 
 .border-none { border: none !important; }
 .border-clr1 { border: 1px solid var(--clr1); }
